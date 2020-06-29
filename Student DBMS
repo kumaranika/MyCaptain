@@ -54,6 +54,7 @@ int main()
         cout << "\t\t\t Select Your Choice :=> ";
         fflush(stdin);
         choice = getche();
+        
         switch(choice)
         {
         case '1' :
